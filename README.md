@@ -27,3 +27,5 @@ Here's some of the common concepts of Verilog:
 
 11.Structural modeling: instantiation of modules and use of parameter to pass values.
 
+![Vector0](https://github.com/Ritikiitk/verilogPath/assets/117504931/616e39ae-e1d4-46d6-8984-e81b41794cef)
+
