@@ -2,7 +2,7 @@
 
 When learning FPGA design, there are two languages to choose from, Verilog or VHDL. They are called HDLs, or hardware design languages. Unlike a language like C, where they define what you want the circuit to do, HDLs define how the hardware needs to be configured.
 If companies around you where you might want to work use VHDL, learn VHDL! <-- This is my case.
-But it will be 
+But I learnt both Verilog & Vhdl.
 
 Here's some of the common concepts of Verilog:
 1.Module declaration: module <module_name> (<list_of_ports>);
@@ -27,4 +27,3 @@ Here's some of the common concepts of Verilog:
 
 11.Structural modeling: instantiation of modules and use of parameter to pass values.
 
-12.Preprocessor directives: define, include, ``ifdef, ``endif, etc.
