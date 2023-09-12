@@ -2,6 +2,6 @@ we can understand the vector as the array/group of similar signals.
 And the name of vector is always after the dimension of vector during declaration of vector. --> wire [9:0] w; Here, name of the vector is 'w' and the dimension/size of the vector is 10 (i.e higher -lower+1).
 Part selection can also be done. ---> assign out= w[0];
 
-![image](file:///C:/Users/admin/Desktop/verilog/Vector0.png)
+
 
 
